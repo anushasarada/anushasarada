@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarada
 - 👀 I’m interested in building mobile/web applications
 - 🌱 I’m currently focusing on getting a solid knowledge & experience in Android and Reactjs
-- 💞️ I’m looking to collaborate on Reactjs and Flutter open-source projects
+- 💞️ I’m looking to collaborate on Android open-source projects
 - 📫 Reach me at email - saradadevi576@gmail.com
 
 <!---
